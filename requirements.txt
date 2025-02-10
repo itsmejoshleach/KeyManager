@@ -1,3 +1,4 @@
 nltk
-cryptography
+cryptography # encrypting & decrypting Data
 pandas
+paramiko # used for managing SSH connections
