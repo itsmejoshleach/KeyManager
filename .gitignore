@@ -1,0 +1,43 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# IDE / Editor folders and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Windows system files
+Thumbs.db
+
+# Python distribution and packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# pytest
+.cache/
+
+# Local configuration files
+*.env
+
+# Private Info:
+*secret*.*
+*passwords.*
+*config.*
+
+# Project Specific Files:
