@@ -38,6 +38,8 @@ build/
 # Private Info:
 *secret*.*
 *passwords.*
+*credentials.*
 *config.*
 
 # Project Specific Files:
+ssh_private_keys/
