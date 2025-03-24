@@ -1,0 +1,2 @@
+- Add Created Device To ~/.ssh/config file
+  - put the private key in the ~/.ssh directory  
